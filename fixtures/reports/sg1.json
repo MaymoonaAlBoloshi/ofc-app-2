@@ -1,0 +1,158 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "Oman Refreshment Company offers exposure to an established beverage manufacturing and distribution platform in Oman, with an additional bottling operation in Algeria. The business combines PepsiCo franchise products with Topfruit juices and a wider food distribution portfolio. Its Muscat plant, Al Ansab distribution centre and nine regional depots provide an existing operating base for a brownfield investment study.\n\nThe central investment question is whether the business can rebuild earnings through a better product mix and more efficient use of its network. Group revenue fell from OMR 96.74 million in 2023 to OMR 63.37 million in 2024. The supplied summaries indicate a return to profit in 2025, although the figures differ between providers. This supports further investigation, with particular attention to the durability of the recovery and the capital requirements of the Algerian business.",
+  "recommendation": "Proceed to pre-feasibility for a brownfield recovery and diversification case. The next stage should establish the preferred development option and the information needed to price an investment. No equity cheque, ownership percentage or capital commitment is proposed at this stage.",
+  "actions": [
+    [
+      "Investment",
+      "Define the investment mandate and compare a recovery-led brownfield case with expansion alternatives."
+    ],
+    [
+      "Finance",
+      "Reconcile FY2025 results and obtain entity-level cash flow, debt and capital expenditure information."
+    ],
+    [
+      "Legal",
+      "Request franchise change-of-control terms, beneficial ownership declarations and screening results."
+    ]
+  ],
+  "sections": {
+    "sourcing": {
+      "text": "The opportunity originates from a public-source review of Oman Refreshment Company, a listed Omani beverage producer with established franchise and distribution relationships. The supplied pack is suitable for initiating a screening case, rather than establishing that the company is seeking new capital.\n\nThe proposed next step is a management approach to confirm transaction appetite and the purpose of any funding. Investment should record the source of that introduction and obtain conflict declarations before negotiations begin. The shareholder register helps identify connected parties, but does not substitute for those declarations.",
+      "sourceNames": [
+        "1.01_Company_Profile.pdf",
+        "3.02_Major_Shareholders_Register.xlsx",
+        "3.08_KYC_Document_Checklist.docx"
+      ]
+    },
+    "technical": {
+      "text": "The operating platform comprises beverage production in Muscat, national distribution infrastructure and the Atlas Bottling business in Algeria. The pack describes SAP and Sales Force Automation deployments, together with food-safety certification and a 2,460 kWp solar installation at the Muscat site.\n\nThese assets provide a credible base for a brownfield improvement programme. The technical study should establish line capacity, utilisation, maintenance requirements and package-format constraints before choosing an upgrade or expansion scope.",
+      "sourceNames": [
+        "1.01_Company_Profile.pdf",
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "partners": {
+      "text": "PepsiCo is the key commercial relationship because the core beverage portfolio depends on franchise rights and access to concentrate. Other principals broaden the distribution portfolio into snacks, oats, bakery, chilled and frozen products.\n\nInitial diligence should prioritise the term, renewal and change-of-control provisions of the major agreements. The KYC questionnaire, beneficial ownership form and screening log identify the work to be completed; the pack does not establish completed counterparty clearance.",
+      "sourceNames": [
+        "1.04_Principals_and_Partners_Register.xlsx",
+        "3.01_Corporate_KYC_Questionnaire.docx",
+        "3.05_UBO_Declaration_Form.docx",
+        "3.06_Sanctions_PEP_Screening_Log.xlsx"
+      ]
+    },
+    "plan": {
+      "text": "The screening case follows three connected workstreams: stabilise the Omani beverage business, improve the mix toward differentiated products, and establish a separate capital and cash-flow view of Algeria. Existing distribution and systems investments should be used before considering substantial new capacity.\n\nFor the demo, the proposed sequence is diagnostic review, selection of priority interventions and a management-agreed implementation plan. This sequence is an investment-team proposal, rather than a board-approved company programme.",
+      "sourceNames": [
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "market": {
+      "text": "The volume data shows a material change in the Omani portfolio. Parent-company carbonated soft-drink volume fell from 16.508 million cases in 2022 to 8.068 million in 2024, while juice volume rose from 2.426 million to 3.151 million cases. The market overview attributes pressure to consumer switching, imported alternatives and the cost environment.\n\nThe investment thesis should therefore test category and channel opportunities individually. A broad assumption that the entire portfolio will return to historic volumes would conceal the different prospects of carbonated drinks, juice, water and distributed food.",
+      "sourceNames": [
+        "1.02_Industry_and_Market_Overview.docx",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "1.10_Competitive_Landscape_and_Threats.docx"
+      ]
+    },
+    "economics": {
+      "text": "Group revenue of OMR 63.37 million and a net loss of OMR 2.78 million in 2024 demonstrate the earnings sensitivity of the platform. The supplied 2025 summaries show revenue of OMR 68.57 million to OMR 68.63 million and net profit of OMR 3.87 million to OMR 4.02 million. Finance should reconcile those figures before using them as a valuation base.\n\nThe pack's market capitalisation of OMR 57.3 million is a dated stock-market reference, not a proposed investment amount. Screening should focus on sustainable earnings and cash conversion before attaching a price to the opportunity.",
+      "sourceNames": [
+        "2.03_Income_Statement_Summary_FY2021_FY2025.csv",
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "2.06_Market_Data_and_Valuation_Snapshot.pdf"
+      ]
+    },
+    "feasibility": {
+      "text": "Existing manufacturing and route-to-market assets make incremental improvement a plausible starting point. SAP, sales automation and the Muscat solar installation suggest that operating improvement can combine systems, productivity and energy measures.\n\nThe principal feasibility test is whether available capacity can support the intended product mix at an acceptable unit cost. An engineering assessment should compare refurbishment, line conversion and new capacity using validated utilisation and maintenance data.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.08_Development_Plan_and_Strategy.pdf"
+      ]
+    },
+    "resources": {
+      "text": "A focused diligence team should combine Investment, Finance, Legal and technical support, with Asset Management taking the lead as the opportunity enters pre-feasibility. The finance request list, KYC checklist and permits checklist provide the initial work packages.\n\nThe immediate resource decision is to scope those assignments and obtain fee proposals. The data room contains no approved study budget, so this report proposes the work programme without asserting a funding authorisation.",
+      "sourceNames": [
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "3.08_KYC_Document_Checklist.docx",
+        "4.04_Licences_and_Permits_Checklist.docx"
+      ]
+    },
+    "risk": {
+      "text": "The initial risks are demand recovery, commodity and packaging costs, franchise continuity, Algeria's cash requirements and incomplete transaction diligence. Weak volume recovery could leave fixed manufacturing and distribution costs underabsorbed, while input-price movements may be difficult to pass through.\n\nThe next-stage response is a downside cash-flow case, a review of key commercial agreements and a ring-fenced assessment of Algerian funding needs. These risks should influence the investment structure and conditions, rather than sit only in a separate register.",
+      "sourceNames": [
+        "1.10_Competitive_Landscape_and_Threats.docx",
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "3.08_KYC_Document_Checklist.docx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "swot": {
+      "text": "The principal strengths are established brands, national distribution and an existing manufacturing base. The principal weaknesses are the recent earnings decline and the lack of detailed operating and financial data in the public-source pack.\n\nJuice growth, product diversification and efficiency measures offer potential upside. Competitive substitution, commodity volatility and regulatory costs are the main external threats. On balance, the platform merits a disciplined pre-feasibility study, with expansion dependent on evidence of profitable demand.",
+      "sourceNames": [
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "1.10_Competitive_Landscape_and_Threats.docx"
+      ]
+    },
+    "utilities": {
+      "text": "Concentrate, sugar, aluminium cans, PET resin, carbon dioxide and packaging are the main inputs identified in the supply-chain note. The existing Muscat site and solar installation provide a practical basis for reviewing utility demand and operating cost.\n\nDiligence should obtain supply terms, energy and water consumption, interruption history and site rights. The presence of an operating plant should not be taken as confirmation that additional capacity can be accommodated without further agreements or approvals.",
+      "sourceNames": [
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+      ]
+    },
+    "regulatory": {
+      "text": "The regulatory review should cover corporate authority, ownership, operating licences and beverage-related tax and product requirements. The pack specifically flags digital tax stamps and an ownership question arising from the founding decree and later arrangements.\n\nLegal should confirm the current position using the applicable documents and competent authorities. At screening, these are defined diligence topics; the supplied material does not establish a legal breach or a completed compliance clearance.",
+      "sourceNames": [
+        "4.01_Statutory_Regulatory_Requirements_Register.xlsx",
+        "4.03_Excise_Tax_and_Digital_Tax_Stamp_Note.docx",
+        "4.05_Foreign_Ownership_Compliance_Note.pdf"
+      ]
+    },
+    "esg": {
+      "text": "The pack identifies tangible environmental initiatives, including 2,460 kWp of installed solar capacity, water recycling and packaging-reduction measures. Product health remains material because carbonated soft drinks represented about 55% of domestic case volume in 2024.\n\nThe opportunity should be evaluated against measurable improvements in product mix, energy intensity, water use and packaging. The ESG scorecard measures the availability of disclosure, so its scores should not be presented as verified operating performance.",
+      "sourceNames": [
+        "5.01_ESG_Assessment_Memo.docx",
+        "5.04_Environmental_Initiatives_Fact_Sheet.pdf",
+        "5.06_Product_Health_and_Sugar_Exposure_Note.pdf"
+      ]
+    },
+    "assurance": {
+      "text": "The screening case is consistent with evaluating an established food and beverage platform rather than constructing a new business from scratch. It has a clear commercial question, identifiable operating assets and a defined list of diligence priorities.\n\nThe SG1 recommendation is to proceed to pre-feasibility with a recovery-led brownfield scope. Subsequent approval should depend on evidence that the selected option can create sustainable value, supported by a defined investment amount, transaction structure and risk allocation.",
+      "sourceNames": [
+        "1.01_Company_Profile.pdf",
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "5.01_ESG_Assessment_Memo.docx"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}

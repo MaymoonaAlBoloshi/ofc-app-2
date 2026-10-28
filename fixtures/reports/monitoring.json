@@ -1,0 +1,92 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "This asset-performance example uses the historical ORCI pack to demonstrate a management review format. The key monitoring question is whether improved sales and operating performance are converting into durable earnings and cash, with separate visibility of Oman and Algeria.\n\nThe pack indicates a FY2025 recovery after the 2024 loss, but it does not contain the management accounts, current budget or a complete current-quarter scorecard. The historical reference figures below are not presented as actual results for the application's selected reporting quarter.",
+  "recommendation": "Use the quarterly review to assess cash generation, product mix, execution benefits and unresolved risks. Submit verified period actuals and budget variances to the EC, with specific decisions requested where performance or conditions depart from the mandate.",
+  "actions": [
+    [
+      "Finance",
+      "Submit reconciled period actuals, budget variances and cash-flow analysis."
+    ],
+    [
+      "Asset Management",
+      "Review commercial KPIs, risks and the benefits of implemented measures."
+    ],
+    [
+      "EC",
+      "Decide escalated actions using the verified quarterly submission."
+    ]
+  ],
+  "sections": {
+    "financials": {
+      "text": "The historical reference set shows group revenue of OMR 63.37 million and a net loss of OMR 2.78 million in 2024, followed by an approximately OMR 68.6 million revenue year and a return to profit in 2025. The FY2025 provider differences should remain reconciled in the standing financial data book.\n\nA live quarterly report should present period revenue, budget variance, EBITDA, reconciled adjustments, cash generation and funds used. The supplied pack does not establish current-quarter actuals or budget, so those fields must come from Finance's verified period records.",
+      "sourceNames": [
+        "2.03_Income_Statement_Summary_FY2021_FY2025.csv",
+        "2.04_Interim_Results_Tracker_2024_2026.xlsx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "kpis": {
+      "text": "The proposed scorecard should track category contribution, volume and price mix, working capital, plant utilisation and the delivery of agreed efficiency benefits. Product-health, energy and water measures should complement the financial indicators.\n\nHistorical juice growth and declining carbonated-drink volumes provide useful context, but they are not current-period targets. Each KPI needs an agreed definition, baseline, target, owner and consistent reporting source.",
+      "sourceNames": [
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "5.02_ESG_Metrics_Scorecard.xlsx",
+        "5.06_Product_Health_and_Sugar_Exposure_Note.pdf"
+      ]
+    },
+    "risks": {
+      "text": "The recurring risk review should examine competitive substitution, input costs, franchise dependencies and the funding needs of the Algerian business. The review should compare the current exposure with the downside assumptions accepted at investment approval.\n\nActions should have an owner and due date, with escalation where the risk exceeds the mandate or threatens liquidity. An unchanged risk description should not substitute for a refreshed assessment of probability, impact and mitigation effectiveness.",
+      "sourceNames": [
+        "1.10_Competitive_Landscape_and_Threats.docx",
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "board": {
+      "text": "Board representation should provide a route for oversight of strategy, capital allocation, risk and related-party matters. The supplied board register describes the public governance context; it does not appoint an OFC representative.\n\nThe asset record should separately capture the actual representative, mandate, appointment date and review date. Material board matters and reserved decisions should be reflected in the quarterly governance report.",
+      "sourceNames": [
+        "3.03_Board_and_Key_Management_Register.xlsx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf"
+      ]
+    },
+    "collaboration": {
+      "text": "Legal, Procurement and Finance should maintain one follow-up register for outstanding consents, contract actions, compliance evidence and financial information. This avoids treating each reporting cycle as a new diligence exercise.\n\nThe quarterly review should identify overdue actions, explain their effect on operations or value, and request the decision needed to resolve them. Closure should be supported by the relevant document or confirmation.",
+      "sourceNames": [
+        "3.08_KYC_Document_Checklist.docx",
+        "4.04_Licences_and_Permits_Checklist.docx",
+        "2.09_Financial_DD_Information_Request_List.docx"
+      ]
+    },
+    "review": {
+      "text": "The EC submission should bring financial performance, operating KPIs, risk changes and governance matters into one decision narrative. It should explain what changed during the quarter, why it matters and what action management proposes.\n\nThe prepared example recommends a disciplined review of recovery quality and capital allocation. A live submission requires Finance and Asset Management review of the selected period, followed by the recorded EC outcome.",
+      "sourceNames": [
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "5.01_ESG_Assessment_Memo.docx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}

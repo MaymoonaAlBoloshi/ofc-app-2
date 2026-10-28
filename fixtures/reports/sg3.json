@@ -1,0 +1,215 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "This final-investment-proposal example brings the ORCI brownfield case into a decision format. Its strategic premise is to improve the quality of earnings through selective commercial recovery, product diversification and operating efficiency, while controlling exposure to additional capacity and cross-border funding needs.\n\nThe supplied data room supports the business context and historical analysis, but does not contain a negotiated transaction, a completed investment model or endorsed agreements. The proposal therefore makes the decision conditions explicit: reconciled earnings, a priced technical scope, a fundable downside case and confirmation of franchise, ownership and regulatory requirements. This is a prepared demonstration of the final proposal format, rather than a claim that ORCI has completed those conditions.",
+  "recommendation": "Use a conditional decision framework for the demonstration. A binding investment commitment should follow only when Finance has confirmed the economics and funding, Legal has endorsed the agreements, and the approving body has accepted the final scope and risk allocation.",
+  "actions": [
+    [
+      "Finance",
+      "Confirm transaction consideration, use of funds, returns and downside liquidity."
+    ],
+    [
+      "Legal",
+      "Endorse the transaction agreements, franchise consents and conditions precedent."
+    ],
+    [
+      "Investment",
+      "Present the final recommendation and unresolved decision items to the authorised committee or Board."
+    ]
+  ],
+  "sections": {
+    "budget": {
+      "text": "The evaluation budget should be reconciled against the financial, legal, commercial and technical assignments commissioned during detailed study. The approval paper should show the authorised envelope, commitments and expected remaining spend.\n\nThe pack provides a diligence request list and a funding template, but no approval record. Finance confirmation remains an explicit precondition to appointing advisers and releasing further study expenditure.",
+      "sourceNames": [
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx"
+      ]
+    },
+    "procurement": {
+      "text": "Adviser selection should reflect the distinct work packages: earnings and cash-flow verification, franchise and ownership diligence, plant assessment and regulatory review. Each appointment should specify deliverables, access requirements, conflicts and acceptance criteria.\n\nThe demonstration recommendation is to use a coordinated scope with one consolidated issues register. No named consultant is presented as appointed, and procurement should proceed only after Finance confirms the study budget.",
+      "sourceNames": [
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "1.06_Technology_and_Systems_Note.docx",
+        "4.04_Licences_and_Permits_Checklist.docx"
+      ]
+    },
+    "strategy": {
+      "text": "The strategic case is strongest where ORCI can use its existing assets and distribution reach to capture better-quality revenue. Juice growth and the recovery in group profitability support further evaluation, while the scale of the 2024 decline argues against treating the recovery as assured.\n\nThe investment decision should favour interventions with a measurable contribution to cash flow and resilience. Unproven expansion should remain outside the committed scope until its incremental demand and returns are demonstrated.",
+      "sourceNames": [
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "design": {
+      "text": "Engineering should translate the selected operating case into a defined technical scope: line capability, package formats, maintenance works, utility interfaces and commissioning requirements. The existing plant and systems provide the starting configuration.\n\nLine-level capacity and utilisation are not established in the pack. The final design basis should therefore be signed off against site findings and the commercial production plan before equipment specifications are frozen.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.05_Operations_and_Facilities_Footprint.pdf"
+      ]
+    },
+    "execution": {
+      "text": "The proposed delivery strategy is phased brownfield implementation, designed to protect production continuity. Commercial and systems improvements can precede major physical interventions, while equipment work should be planned around maintenance windows and verified demand.\n\nContracts should allocate scope, schedule, performance and acceptance responsibilities explicitly. The final approval pack should include the package strategy, critical dependencies and escalation route for cost or timing changes.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.08_Development_Plan_and_Strategy.pdf"
+      ]
+    },
+    "market": {
+      "text": "The market strategy should prioritise profitable categories and routes to market rather than total case volume alone. The source data supports separate strategies for carbonated drinks, juices, water and distributed foods because their recent trajectories differ materially.\n\nThe final commercial plan should identify customers, channels, pricing, promotional spend and contribution targets. The forecast should distinguish retained demand from recovery assumptions and from genuinely incremental sales.",
+      "sourceNames": [
+        "1.02_Industry_and_Market_Overview.docx",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "1.10_Competitive_Landscape_and_Threats.docx"
+      ]
+    },
+    "cost": {
+      "text": "The final investment specification should separate transaction consideration, operating improvements, compliance expenditure, working capital and contingency. Every material capital package should have an estimate basis tied to the approved technical scope.\n\nThe OMR 1.5 million line-upgrade example in the source workbook is not adopted as a project estimate. The proposal should present an amount only after quotations and the corresponding operating benefits have been reviewed.",
+      "sourceNames": [
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "funding": {
+      "text": "The funding structure should preserve adequate liquidity through both implementation and a slower-recovery scenario. Group net cash in the public summaries cannot be assumed to be unrestricted cash available for a transaction or for every subsidiary.\n\nFinance should confirm debt facilities, covenants, security, entity-level cash access and the timing of contributions. Any equity subscription, acquisition payment or shareholder loan must be reflected consistently in the transaction documents and cash-flow model.",
+      "sourceNames": [
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "3.02_Major_Shareholders_Register.xlsx"
+      ]
+    },
+    "returns": {
+      "text": "The return case should be built from reconciled earnings and cash flows rather than from the market snapshot alone. The pack's FY2025 revenue and profit figures differ between providers, and the available 2026 interim result indicates an uneven earnings pattern.\n\nEntry valuation, capital expenditure, financing and exit assumptions should be tested together. The final committee paper should show base and downside returns, peak funding needs and the assumptions that most affect value; no unsupported IRR or NPV is inserted into this demonstration.",
+      "sourceNames": [
+        "2.03_Income_Statement_Summary_FY2021_FY2025.csv",
+        "2.06_Market_Data_and_Valuation_Snapshot.pdf",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "swot": {
+      "text": "ORCI's principal strengths are its franchise relationships, operating infrastructure and distribution reach. Its weaknesses include recent earnings volatility and dependence on categories exposed to substitution and health-related demand shifts.\n\nProduct diversification and operating improvements offer potential upside, while input-cost volatility and capital demands outside Oman can dilute it. The investment structure should preserve the upside without committing capital ahead of validated demand and cash generation.",
+      "sourceNames": [
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "1.10_Competitive_Landscape_and_Threats.docx"
+      ]
+    },
+    "risk": {
+      "text": "The final risk report should connect the commercial downside to its financial consequences: lower contribution, slower cash collection and greater funding requirements. Commodity exposure, franchise conditions and Algeria's capital needs require specific treatment in the investment model and agreements.\n\nResidual risks should be accepted explicitly by the decision-maker. Mitigations should identify the accountable team, evidence of implementation and the threshold that triggers escalation or a change in scope.",
+      "sourceNames": [
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "1.10_Competitive_Landscape_and_Threats.docx",
+        "2.09_Financial_DD_Information_Request_List.docx"
+      ]
+    },
+    "exit": {
+      "text": "A material equity position should have a credible negotiated exit route because the pack describes limited market trading. Potential strategic or shareholder transactions should be evaluated against transfer rights, buyer appetite and franchise requirements.\n\nThe final agreements should protect access to information and define the mechanisms relevant to a future disposal. Exit value should be tested conservatively rather than assuming immediate liquidity at the quoted share price.",
+      "sourceNames": [
+        "2.06_Market_Data_and_Valuation_Snapshot.pdf",
+        "3.02_Major_Shareholders_Register.xlsx",
+        "1.04_Principals_and_Partners_Register.xlsx"
+      ]
+    },
+    "organization": {
+      "text": "The implementation organisation should combine existing company management with clearly assigned investment oversight. The board and management register provides a starting point for stakeholder mapping, while the workforce note highlights the importance of skills and Omanisation.\n\nThe proposed structure assigns Asset Management responsibility for value delivery, with Finance, Legal and technical leads supporting defined workstreams. Named appointments, delegations and reporting obligations should be confirmed in the execution plan.",
+      "sourceNames": [
+        "3.03_Board_and_Key_Management_Register.xlsx",
+        "4.06_Labour_and_Omanisation_Note.docx",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "legal": {
+      "text": "Legal endorsement should cover the investment agreements, corporate authority, shareholder rights and any franchise consents. The ownership note identifies a question requiring documentary confirmation; it does not establish the present legal outcome.\n\nThe decision pack should distinguish completed legal opinions from outstanding conditions precedent. The demonstration contains no claim that an agreement has been signed or that a regulator or commercial counterparty has granted consent.",
+      "sourceNames": [
+        "1.04_Principals_and_Partners_Register.xlsx",
+        "3.08_KYC_Document_Checklist.docx",
+        "4.05_Foreign_Ownership_Compliance_Note.pdf"
+      ]
+    },
+    "land": {
+      "text": "The brownfield case relies initially on the existing manufacturing and distribution footprint. Legal and technical diligence should confirm tenure, permitted use, access and restrictions affecting the chosen interventions.\n\nAny new land requirement should have a defined commercial and regulatory path before inclusion in the committed programme. An operating site address is not evidence of additional development rights.",
+      "sourceNames": [
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "4.04_Licences_and_Permits_Checklist.docx"
+      ]
+    },
+    "utilities": {
+      "text": "Utility availability should be tested against the final production plan, including electricity, water, wastewater and essential production inputs. The existing solar installation is a relevant operating asset, but its contribution to total energy demand is not quantified in the pack.\n\nThe execution plan should confirm supply capacity, tariffs, connection work and reliability measures. Benefits from energy or water improvements should enter the investment model only when their baseline and measurement approach are established.",
+      "sourceNames": [
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "5.04_Environmental_Initiatives_Fact_Sheet.pdf",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "stakeholders": {
+      "text": "Stakeholder engagement should address employees, suppliers, customers, franchise partners and relevant authorities. The product-health and environmental notes make portfolio mix, water use, packaging and workforce measures material to the operating case.\n\nThe proposed ESG plan should turn these topics into a small set of measurable commitments with owners and reporting dates. The disclosure scorecard can guide information collection, while performance claims require verified operating data.",
+      "sourceNames": [
+        "5.01_ESG_Assessment_Memo.docx",
+        "5.05_ESG_Questionnaire_for_Company.docx",
+        "5.06_Product_Health_and_Sugar_Exposure_Note.pdf"
+      ]
+    },
+    "partner": {
+      "text": "Counterparty diligence should establish the corporate chain, beneficial owners, authorised signatories and the standing of critical commercial partners. The source forms contain public identity information and screening worklists, but do not demonstrate completed checks.\n\nLegal should close the material KYC and sanctions questions before commitment. Commercial diligence should separately confirm the continuity and enforceability of the franchise and principal relationships on which the business plan depends.",
+      "sourceNames": [
+        "3.01_Corporate_KYC_Questionnaire.docx",
+        "3.05_UBO_Declaration_Form.docx",
+        "3.06_Sanctions_PEP_Screening_Log.xlsx",
+        "1.04_Principals_and_Partners_Register.xlsx"
+      ]
+    },
+    "governance": {
+      "text": "The proposed project governance should provide a clear route from workstream delivery to investment oversight. A steering committee should monitor cost, schedule, benefits and conditions, with escalation thresholds aligned to the investment mandate.\n\nThis is a proposed governance arrangement for the demo, not an existing ORCI committee appointment. The final plan should name accountable individuals, reserve material decisions and define the reporting calendar.",
+      "sourceNames": [
+        "3.03_Board_and_Key_Management_Register.xlsx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf"
+      ]
+    },
+    "permits": {
+      "text": "The approval register should identify each licence and consent required by the final scope, its evidence, responsible team and expiry or target date. Tax-stamp and excise requirements should be included where they affect product, equipment or systems changes.\n\nThe investment decision should state which approvals are needed before signing, closing and commissioning. Unverified entries in the checklist should remain open conditions rather than be presented as granted permits.",
+      "sourceNames": [
+        "4.01_Statutory_Regulatory_Requirements_Register.xlsx",
+        "4.04_Licences_and_Permits_Checklist.docx",
+        "4.03_Excise_Tax_and_Digital_Tax_Stamp_Note.docx"
+      ]
+    },
+    "assurance": {
+      "text": "Value assurance should test the consistency of the commercial case, engineering scope, funding plan and legal commitments. The final report should show how the preferred option performs under downside conditions and why the residual risks are acceptable.\n\nFor this prepared example, the recommendation remains conditional on completing the defined diligence and pricing the transaction. A real final investment decision requires the supporting model, endorsements and approvals to be attached to the record.",
+      "sourceNames": [
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "3.08_KYC_Document_Checklist.docx"
+      ]
+    },
+    "ec": {
+      "text": "The post-analysis review should focus on the investment recommendation, principal sensitivities and the conditions that remain before commitment. Supporting advisers should present their material findings through one consolidated issues list.\n\nThe demonstration decision sequence is committee review followed by the approval required under the applicable authority. Meeting minutes, votes and the final resolution should be recorded in the application when the decision is actually taken.",
+      "sourceNames": [
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}

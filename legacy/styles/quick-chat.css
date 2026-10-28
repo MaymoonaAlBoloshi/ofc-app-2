@@ -1,0 +1,62 @@
+/* Contextual Siraaj uses the same glass treatment as the full workspace. */
+.quick-chat-root .quick-chat-panel {
+  width: min(410px, calc(100vw - 32px));
+  height: min(610px, calc(100dvh - 120px));
+  border: 1px solid #fffffff5;
+  border-radius: 26px;
+  background: radial-gradient(ellipse at 0 0, #dcebd8d9, transparent 65%), radial-gradient(ellipse at 100% 100%, #c9e1d3b3, transparent 60%), linear-gradient(145deg, #f8fbf6fa, #ecf4edf5);
+  box-shadow: inset 0 2px 3px #fff, inset 0 -3px 4px #446c4a14, 0 20px 60px #214a3c29, 0 0 0 1px #244b301a;
+  backdrop-filter: blur(28px) saturate(1.3);
+  -webkit-backdrop-filter: blur(28px) saturate(1.3);
+}
+.quick-chat-root .quick-chat-header { padding: 17px 18px; background: transparent; border-bottom: 1px solid #ffffffb3; gap: 10px; flex-shrink: 0; }
+.quick-chat-root .quick-chat-brand { width: 31px; height: 31px; flex-shrink: 0; }
+.quick-chat-root .quick-chat-header strong { font-size: 20px; font-weight: 600; letter-spacing: -.7px; }
+.quick-chat-root .quick-chat-header small { font-size: 11px; color: #607667; }
+.quick-chat-root .quick-chat-header button, .quick-chat-root .quick-chat-prompts button {
+  border: 1px solid #ffffffed;
+  background: linear-gradient(150deg, #ffffffbd, #ffffff45);
+  box-shadow: inset 0 2px 2px #fff, inset 0 -3px 3px #5a81651a, 0 5px 12px #36534412, 0 0 0 1px #385c4214;
+  backdrop-filter: blur(20px) saturate(1.5);
+  -webkit-backdrop-filter: blur(20px) saturate(1.5);
+  color: #284e3f;
+  transition: background .18s, box-shadow .18s, transform .18s;
+}
+.quick-chat-root .quick-chat-header button { display: grid; place-items: center; width: 35px; height: 35px; border-radius: 12px; flex-shrink: 0; }
+.quick-chat-root .quick-chat-header button svg { width: 17px; height: 17px; }
+.quick-chat-root .quick-chat-header button:hover, .quick-chat-root .quick-chat-prompts button:hover { background-color: #ffffffc2; transform: translateY(-1px); }
+.quick-chat-root .quick-chat-messages { padding: 20px; scrollbar-color: #becfbd transparent; }
+.quick-chat-root .quick-chat-intro { text-align: center; padding-top: 6px; }
+.quick-chat-root .quick-chat-welcome-mark { display: grid; place-items: center; width: 62px; height: 62px; margin: 0 auto 18px; border-radius: 21px; border: 1px solid #fff; background: linear-gradient(145deg, #ffffffed, #d8e7cc73); box-shadow: inset 0 3px 2px #fff, inset 0 -4px 6px #5b82521c, 0 10px 24px #466b4014, 0 0 0 1px #65894c14; transform: rotate(-5deg); }
+.quick-chat-root .quick-chat-welcome-mark img { width: 36px; height: 36px; transform: rotate(5deg); }
+.quick-chat-root .quick-chat-eyebrow { display: block; font-size: 8px; letter-spacing: 1.7px; font-weight: 600; color: #74846a; }
+.quick-chat-root .quick-chat-intro p { font-size: 24px; line-height: 1.3; letter-spacing: -.8px; font-weight: 400; margin: 10px 0; color: #254b3b; }
+.quick-chat-root .quick-chat-intro small { display: block; font-size: 12px; line-height: 1.65; color: #677b68; }
+.quick-chat-root .quick-chat-prompts { margin-top: 21px; gap: 9px; }
+.quick-chat-root .quick-chat-prompts button { text-align: left; padding: 12px 14px; border-radius: 14px; font-size: 12px; line-height: 1.5; }
+.quick-chat-root .quick-chat-message.user { background: #e0eddeaa; border: 1px solid #ffffffd9; border-radius: 20px; padding: 12px 16px; box-shadow: inset 0 1px 2px #fff, 0 5px 15px #214a3c0a; backdrop-filter: blur(16px); }
+.quick-chat-root .quick-chat-message.ai { padding: 0 4px; }
+.quick-chat-root .quick-chat-composer { margin: 0 14px; padding: 12px 10px 12px 15px; border: 1px solid #fffffff2; border-radius: 23px; background: #ffffff9e; box-shadow: inset 0 2px 2px #fff, inset 0 -3px 4px #214a3c0c, 0 8px 22px #214a3c14, 0 0 0 1px #214a3c12; backdrop-filter: blur(24px) saturate(1.4); -webkit-backdrop-filter: blur(24px) saturate(1.4); flex-shrink: 0; }
+.quick-chat-root .quick-chat-composer:focus-within { box-shadow: inset 0 2px 2px #fff, inset 0 -3px 4px #214a3c0c, 0 8px 22px #214a3c14, 0 0 0 1px #6c946e; }
+.quick-chat-root .quick-chat-composer textarea { font-size: 13px; line-height: 1.6; }
+.quick-chat-root .quick-chat-composer textarea::placeholder { color: #7d8d80; }
+.quick-chat-root .quick-chat-composer button, .quick-chat-root .quick-chat-bubble { background: linear-gradient(150deg, #50785ee6, #214a3cef); color: #fff; border: 1px solid #ffffff7a; box-shadow: inset 0 2px 2px #ffffff66, inset 0 -4px 5px #102d3055, 0 5px 14px #214a3c26, 0 0 0 1px #214a3c22; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); transition: transform .18s, box-shadow .18s; }
+.quick-chat-root .quick-chat-composer button { display: grid; place-items: center; width: 35px; height: 35px; }
+.quick-chat-root .quick-chat-composer button svg { width: 21px; height: 21px; }
+.quick-chat-root .quick-chat-composer button:disabled { background: linear-gradient(150deg, #eef4e9, #d5e2d1); color: #8a9f85; box-shadow: inset 0 2px 2px #fff, inset 0 -2px 2px #214a3c0c; }
+.quick-chat-root .quick-chat-bubble { border-radius: 18px; gap: 10px; padding: 12px 17px; }
+.quick-chat-root .quick-chat-bubble img { width: 24px; height: 24px; filter: invert(1); }
+.quick-chat-root .quick-chat-bubble:hover { background: linear-gradient(150deg, #618970, #2b5846); transform: translateY(-2px); }
+.quick-chat-root .quick-chat-note { color: #6f7d70; text-align: center; font-size: 10px; margin: 10px 20px 15px; flex-shrink: 0; }
+.quick-chat-root button:focus-visible { outline: 2px solid #3e7359; outline-offset: 3px; }
+.quick-chat-root button:active { transform: translateY(1px); }
+@media (max-width: 700px) {
+  .quick-chat-root .quick-chat-panel { width: calc(100vw - 24px); height: min(580px, calc(100dvh - 180px)); border-radius: 23px; }
+  .quick-chat-root .quick-chat-header { padding: 14px 16px; }
+  .quick-chat-root .quick-chat-messages { padding: 18px; }
+  .quick-chat-root .quick-chat-bubble { padding: 12px; border-radius: 17px; }
+  .quick-chat-root .quick-chat-intro p { font-size: 23px; }
+}
+@media (max-height: 650px) { .quick-chat-root .quick-chat-welcome-mark, .quick-chat-root .quick-chat-eyebrow { display: none; } }
+@media (prefers-reduced-motion: reduce) { .quick-chat-root * { transition: none !important; } }
+@supports not (backdrop-filter: blur(1px)) { .quick-chat-root .quick-chat-panel { background: #f0f5ec; } }

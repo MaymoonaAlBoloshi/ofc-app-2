@@ -1,0 +1,2 @@
+
+.dn .legend li{display:grid;grid-template-columns:10px 1fr 24px 40px;gap:12px;align-items:center;padding:7px 0;font-size:13.5px;border-top:1px solid var(--line-2)}.dn .legend li:first-child{border-top:0}.dn .legend i{width:9px;height:9px;border-radius:50%}.dn .legend .n{text-align:right}.dn .legend .p{text-align:right;font-size:11.5px;color:var(--ink-3)}@media (max-width:700px){.dn{grid-template-columns:1fr!important;justify-items:center}.dn .legend{width:100%}}

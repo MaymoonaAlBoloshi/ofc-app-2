@@ -1,0 +1,14 @@
+.investment-actions{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 20px}
+.investment-filters{display:flex;flex-wrap:wrap;align-items:end;gap:12px;margin-bottom:14px}
+.investment-filters label{display:flex;flex-direction:column;gap:5px;font-size:12px;color:var(--ink-2)}
+.investment-filters input,.investment-filters select{font:inherit;font-size:13px;padding:9px;border:1px solid var(--line);border-radius:6px;background:var(--white);color:var(--ink);max-width:100%}
+.investment-filters input{min-width:230px}.investment-meta{display:block;color:var(--ink-2);margin-top:5px}
+.investment-board{display:flex;gap:16px;overflow:auto;padding-bottom:12px}
+.investment-lane{flex:0 0 270px;background:var(--callout);border-radius:8px;padding:14px}
+.investment-lane h3{font-size:14px}.investment-lane>p{font-size:12px;color:var(--ink-2)}
+.investment-card{padding:14px;border:1px solid var(--line);border-radius:6px;background:var(--white);margin-top:12px;overflow-wrap:anywhere}
+.investment-card h4{margin:0 0 10px}.investment-card p{font-size:12px;line-height:1.7}
+.investment-records{border-top:1px solid var(--line);padding:14px 0}.investment-records summary{cursor:pointer;font-size:14px;font-weight:600;margin-bottom:12px}
+.investment-stage-deal{border-top:1px solid var(--line);padding:14px 0}.investment-stage-deal h3{font-size:15px}.investment-stage-deal p{font-size:13px}
+@media(max-width:700px){.investment-filters label{width:100%}.investment-filters input{min-width:0}.investment-actions .btn{white-space:normal}.investment-lane{flex-basis:250px}}
+@media print{.investment-actions,.investment-filters{display:none}.investment-board{display:block}.investment-lane{break-inside:avoid}.investment-records{display:block}}

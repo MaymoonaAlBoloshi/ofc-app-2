@@ -1,0 +1,114 @@
+/* Siraaj glass surfaces. Scoped to leave department dashboards unchanged. */
+.siraaj-workspace.siraaj-glass {
+  padding: 20px 28px 24px;
+  gap: 20px;
+  isolation: isolate;
+  background: radial-gradient(ellipse at 3% 20%, #d4e6cf 0, transparent 48%), radial-gradient(ellipse at 94% 90%, #bdd8ca 0, transparent 50%), linear-gradient(135deg, #f1f4e9, #eaf0e9 50%, #f6f4ed);
+}
+.siraaj-glass .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+.siraaj-glass .siraaj-topbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-shrink: 0; }
+.siraaj-glass .siraaj-brand { display: flex; gap: 12px; align-items: center; padding-left: 4px; }
+.siraaj-glass .siraaj-brand img { width: 38px; height: 38px; }
+.siraaj-glass .siraaj-brand strong { display: block; font-size: 23px; font-weight: 600; letter-spacing: -.8px; line-height: 1.2; }
+.siraaj-glass .siraaj-brand span { display: block; font-size: 11px; color: #607667; margin-top: 3px; }
+.siraaj-glass .siraaj-topbar-actions { display: flex; gap: 10px; }
+.siraaj-glass .siraaj-glass-button, .siraaj-glass .siraaj-suggestions button, .siraaj-glass .siraaj-evidence-toggle, .siraaj-glass .siraaj-glass-icon {
+  border: 1px solid #ffffffed;
+  background: linear-gradient(150deg, #ffffffbd, #ffffff45);
+  box-shadow: inset 0 2px 2px #fff, inset 0 -3px 3px #5a81651a, 0 5px 12px #36534412, 0 0 0 1px #385c4214;
+  backdrop-filter: blur(20px) saturate(1.5);
+  -webkit-backdrop-filter: blur(20px) saturate(1.5);
+  color: #284e3f;
+  transition: background .18s, box-shadow .18s, transform .18s;
+  cursor: pointer;
+}
+.siraaj-glass .siraaj-glass-button, .siraaj-glass #siraaj-new { display: inline-flex; justify-content: center; align-items: center; gap: 8px; min-height: 44px; width: auto; height: auto; padding: 10px 17px; border-radius: 15px; font-size: 12px; font-weight: 500; }
+.siraaj-glass .siraaj-glass-button svg { width: 18px; height: 18px; }
+.siraaj-glass #siraaj-new { background: linear-gradient(150deg, #50785ee6, #214a3cef); color: #fff; border: 1px solid #ffffff7a; box-shadow: inset 0 2px 2px #ffffff66, inset 0 -4px 5px #102d3055, 0 5px 14px #214a3c26, 0 0 0 1px #214a3c22; }
+.siraaj-glass .siraaj-glass-button:hover, .siraaj-glass .siraaj-suggestions button:hover, .siraaj-glass .siraaj-evidence-toggle:hover { transform: translateY(-1px); background-color: #ffffffb3; }
+.siraaj-glass #siraaj-new:hover { background-color: #37634d; }
+.siraaj-glass button:active { transform: translateY(1px); }
+.siraaj-glass button:focus-visible, .siraaj-glass input:focus-visible { outline: 2px solid #3e7359; outline-offset: 3px; }
+.siraaj-glass button:disabled { opacity: .5; cursor: wait; transform: none; }
+.siraaj-glass .siraaj-stage { display: flex; gap: 16px; flex: 1; min-height: 0; position: relative; }
+.siraaj-glass .siraaj-chat-card, .siraaj-glass .siraaj-history {
+  background: linear-gradient(145deg, #ffffffb8, #ffffff70 60%, #ffffff9c);
+  border: 1px solid #fffffff5;
+  box-shadow: inset 0 2px 3px #fff, inset 0 -3px 4px #446c4a0d, 0 12px 38px #3556410c, 0 0 0 1px #244b3012;
+  backdrop-filter: blur(28px) saturate(1.3);
+  -webkit-backdrop-filter: blur(28px) saturate(1.3);
+  border-radius: 26px;
+}
+.siraaj-glass .siraaj-chat-card { flex: 1; }
+.siraaj-glass .siraaj-conversation-bar { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex: 0 0 auto; min-height: 62px; padding: 12px 22px; box-sizing: border-box; border-bottom: 1px solid #ffffffa6; }
+.siraaj-glass .siraaj-conversation-bar > span { min-width: 0; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; font-size: 12px; color: #6c7c6c; }
+.siraaj-glass .siraaj-evidence-toggle { position: static; flex-shrink: 0; font-size: 11px; padding: 9px 13px; border-radius: 12px; }
+.siraaj-glass .siraaj-welcome { inset: 62px 18px 155px; }
+.siraaj-glass .siraaj-welcome-mark { width: 88px; height: 88px; border-radius: 28px; margin-bottom: 24px; border: 1px solid #fff; background: linear-gradient(145deg, #ffffffed, #d8e7cc73); box-shadow: inset 0 3px 2px #fff, inset 0 -4px 6px #5b82521c, 0 14px 32px #466b4014, 0 0 0 1px #65894c14; transform: rotate(-5deg); }
+.siraaj-glass .siraaj-welcome-mark img { width: 52px; height: 52px; transform: rotate(5deg); }
+.siraaj-glass .siraaj-eyebrow { font-size: 9px; letter-spacing: 1.9px; font-weight: 600; color: #74846a; }
+.siraaj-glass .siraaj-welcome h2 { font-size: clamp(27px, 3vw, 42px); font-weight: 400; letter-spacing: -1.5px; margin: 12px 0; color: #254b3b; }
+.siraaj-glass .siraaj-welcome p { color: #677b68; font-size: 13px; max-width: 380px; }
+.siraaj-glass .siraaj-suggestions { gap: 10px; margin-top: 28px; }
+.siraaj-glass .siraaj-suggestions button { border-radius: 14px; padding: 13px 17px; font-size: 12px; }
+.siraaj-glass .siraaj-disclaimer { color: #6f7d70; padding-bottom: 16px; font-size: 10px; }
+.siraaj-glass #siraaj-loading { top: 76px; pointer-events: none; }
+.siraaj-glass .siraaj-history { flex: 0 0 274px; min-width: 0; display: flex; flex-direction: column; padding: 22px 16px 16px; box-sizing: border-box; }
+.siraaj-glass .siraaj-history-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0 4px; }
+.siraaj-glass .siraaj-history h3 { font-size: 19px; font-weight: 500; margin: 7px 0 0; letter-spacing: -.5px; }
+.siraaj-glass .siraaj-glass-icon { width: 34px; height: 34px; border-radius: 11px; font-size: 23px; line-height: 1; flex-shrink: 0; }
+.siraaj-glass .siraaj-history-search { display: flex; align-items: center; gap: 8px; border: 1px solid #fff; background: #ffffff61; box-shadow: inset 0 2px 4px #214a3c08; border-radius: 12px; padding: 10px; margin-top: 24px; }
+.siraaj-glass .siraaj-history-search svg { width: 16px; height: 16px; flex-shrink: 0; color: #718772; }
+.siraaj-glass .siraaj-history-search input { width: 100%; min-width: 0; border: 0; background: transparent; color: #254b3b; font: inherit; font-size: 11px; }
+.siraaj-glass .siraaj-history-list { flex: 1; min-height: 0; overflow-y: auto; margin-top: 20px; scrollbar-width: thin; }
+.siraaj-glass .siraaj-history-row { display: flex; align-items: center; border: 1px solid transparent; border-radius: 13px; margin-bottom: 5px; }
+.siraaj-glass .siraaj-history-row:hover { background: #ffffff55; }
+.siraaj-glass .siraaj-history-row.is-selected { background: #ffffffb3; border-color: #fff; box-shadow: 0 3px 9px #3653440c; }
+.siraaj-glass .siraaj-history-select { text-align: left; flex: 1; min-width: 0; padding: 12px 10px; }
+.siraaj-glass .siraaj-history-select strong { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px; font-weight: 500; color: #294b3c; }
+.siraaj-glass .siraaj-history-select span { display: block; font-size: 10px; color: #738171; margin-top: 6px; }
+.siraaj-glass .siraaj-history-delete { display: grid; place-items: center; flex-shrink: 0; width: 32px; height: 36px; border-radius: 8px; color: #7d8c7c; margin-right: 4px; }
+.siraaj-glass .siraaj-history-delete svg { width: 16px; height: 16px; }
+.siraaj-glass .siraaj-history-delete:hover { background: #f3e4da; color: #96583f; }
+.siraaj-glass .siraaj-history-note { font-size: 10px; line-height: 1.7; color: #738270; padding: 16px 6px 0; border-top: 1px solid #ffffffb3; margin: 16px 0 0; }
+.siraaj-glass .siraaj-history-note span { color: #6a8b61; margin-right: 4px; }
+.siraaj-glass .siraaj-history-empty { font-size: 12px; line-height: 1.7; color: #6f7f70; padding: 8px; }
+.siraaj-glass .siraaj-storage-error { margin: 0; padding: 10px 16px; background: #fff6df; border-radius: 12px; font-size: 12px; }
+@media (max-width: 900px) {
+  .siraaj-glass .siraaj-history { position: absolute; top: 0; bottom: 0; left: 0; width: min(310px, 100%); z-index: 6; background: linear-gradient(145deg, #f5f9f0ed, #e5eee2ed); box-shadow: 10px 10px 45px #214a3c26, inset 0 2px 2px #fff; }
+}
+@media (max-width: 700px) {
+  .siraaj-workspace.siraaj-glass { padding: 12px 8px 8px; gap: 12px; }
+  .siraaj-glass .siraaj-topbar { padding: 0 4px; gap: 8px; }
+  .siraaj-glass .siraaj-brand { gap: 7px; padding: 0; }
+  .siraaj-glass .siraaj-brand img { width: 29px; height: 29px; }
+  .siraaj-glass .siraaj-brand strong { font-size: 19px; }
+  .siraaj-glass .siraaj-brand span { display: none; }
+  .siraaj-glass .siraaj-topbar-actions { gap: 6px; }
+  .siraaj-glass .siraaj-glass-button, .siraaj-glass #siraaj-new { padding: 9px 11px; font-size: 11px; border-radius: 13px; }
+  .siraaj-glass .siraaj-glass-button svg { width: 15px; height: 15px; }
+  .siraaj-glass .siraaj-chat-card { border-radius: 20px; }
+  .siraaj-glass .siraaj-conversation-bar { padding: 10px 14px; min-height: 54px; }
+  .siraaj-glass .siraaj-conversation-bar > span { font-size: 10px; }
+  .siraaj-glass .siraaj-evidence-toggle { font-size: 10px; padding: 8px 10px; }
+  .siraaj-glass .siraaj-welcome { inset: 54px 8px 130px; padding: 8px; }
+  .siraaj-glass .siraaj-welcome-mark { width: 64px; height: 64px; border-radius: 22px; margin-bottom: 18px; }
+  .siraaj-glass .siraaj-welcome-mark img { width: 41px; height: 41px; }
+  .siraaj-glass .siraaj-welcome h2 { font-size: 28px; letter-spacing: -1px; }
+  .siraaj-glass .siraaj-welcome p { font-size: 12px; max-width: 260px; }
+  .siraaj-glass .siraaj-suggestions { gap: 7px; margin-top: 22px; }
+  .siraaj-glass .siraaj-suggestions button { font-size: 10px; padding: 11px 12px; border-radius: 12px; }
+  .siraaj-glass .siraaj-disclaimer { font-size: 9px; padding: 9px 12px 12px; }
+}
+@media (max-height: 650px) { .siraaj-glass .siraaj-welcome-mark, .siraaj-glass .siraaj-welcome .siraaj-eyebrow { display: none; } }
+@media (prefers-reduced-motion: reduce) { .siraaj-glass *, .siraaj-glass *::before { transition: none !important; } }
+@supports not (backdrop-filter: blur(1px)) { .siraaj-glass .siraaj-chat-card, .siraaj-glass .siraaj-history { background: #f2f6ef; } }
+
+@media (max-width: 900px) {
+  .siraaj-glass .siraaj-stage.has-history .siraaj-chat-card { display: none; }
+  .siraaj-glass .siraaj-stage.has-history .siraaj-history { position: relative; width: 100%; flex: 1; box-shadow: inset 0 2px 3px #fff, inset 0 -3px 4px #446c4a0d, 0 8px 24px #3556410c; }
+}
+.siraaj-glass .siraaj-evidence-dialog { background: linear-gradient(145deg, #f8fcf4f5, #eaf2e8eb); backdrop-filter: blur(28px) saturate(1.3); border: 1px solid #fff; box-shadow: inset 0 2px 3px #fff, 0 24px 70px #153b3033; }
+.siraaj-glass .siraaj-evidence-dialog::backdrop { background: #1b3b2f38; backdrop-filter: blur(8px); }
+.siraaj-glass .siraaj-evidence-dialog input { background: #ffffff85; border-color: #fff; box-shadow: inset 0 2px 4px #214a3c09, 0 0 0 1px #214a3c12; border-radius: 12px; }
+.siraaj-glass .siraaj-evidence-dialog button[type=submit] { background: linear-gradient(145deg, #4b7a60, #214a3c); border: 1px solid #ffffff7a; box-shadow: inset 0 2px 2px #ffffff66, inset 0 -3px 3px #102e3255, 0 4px 9px #214a3c22; }

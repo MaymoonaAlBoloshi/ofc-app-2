@@ -1,0 +1,6 @@
+'use client';
+import {useState,useEffect} from 'react';
+import {AppletLauncher} from '../../components/applet-launcher';
+import '../globals.css';
+import '../original-language.css';
+export default function Settings(){const [role,setRole]=useState('ceo'),[message,setMessage]=useState('');useEffect(()=>{try{setRole(localStorage.getItem('ofc-role')||'ceo');}catch{}},[]);return <><header className="standalone-suite"><AppletLauncher/><a href="/">Oman Food Capital</a></header><main style={{maxWidth:760,margin:'40px auto'}}><h1>Workspace settings</h1><section className="panel panel-padding"><h2>Department applet profile</h2><p>Select the demo profile used in the original departmental applets. Investment keeps its profile control in the avatar menu.</p><label className="field">Applet profile<select value={role} onChange={e=>setRole(e.target.value)}><option value="ceo">Group CEO</option><option value="cfo">Group CFO</option><option value="cio">Group CIO</option><option value="amd">Asset Management Director</option></select></label><button className="primary" onClick={()=>{try{localStorage.setItem('ofc-role',role);setMessage('Profile saved. Open an applet to use it.');}catch{setMessage('Browser storage is unavailable. The profile could not be saved.');}}}>Save profile</button><p role="status">{message}</p></section></main></>;}

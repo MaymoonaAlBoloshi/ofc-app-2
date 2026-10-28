@@ -1,0 +1,23 @@
+{
+  "name": "ofc-app-2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1 --port 3004",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0 --port ${PORT:-3004}",
+    "test": "node --test --experimental-test-isolation=none tests/workflow.test.mjs tests/intake.test.mjs tests/store.test.mjs tests/assist.test.mjs tests/report-jobs.test.mjs tests/demo-pack.test.mjs tests/demo-report.test.mjs tests/chat-context.test.mjs",
+    "test:browser": "node --test --experimental-test-isolation=none tests/browser.test.mjs",
+    "test:journey": "node --test --experimental-test-isolation=none tests/journey.test.mjs",
+    "test:reports": "node --test --experimental-test-isolation=none tests/report.test.mjs",
+    "test:live": "node --test --experimental-test-isolation=none tests/live.mjs",
+    "test:loading": "node --test --experimental-test-isolation=none tests/loading.test.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "playwright-core": "^1.64.1"
+  }
+}

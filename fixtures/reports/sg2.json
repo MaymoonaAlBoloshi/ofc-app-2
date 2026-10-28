@@ -1,0 +1,178 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "The preferred development direction for this demo is a phased brownfield improvement programme: recover profitable demand in Oman, strengthen the product mix and improve the productivity of the existing manufacturing and distribution network. A broad capacity expansion is a less attractive starting point while line utilisation, channel margins and the durability of demand remain unverified.\n\nThe supporting evidence is mixed but useful. Juice volume grew by about 29.9% between 2022 and 2024, while carbonated soft drinks contracted by about 51.1%. Group results recovered in 2025 following the 2024 loss, yet the pack reports only OMR 0.176 million of group net profit for Q1 2026. Detailed evaluation should separate structural improvements from short-term recovery and assess Oman and Algeria independently.",
+  "recommendation": "Select the phased brownfield case for detailed evaluation. Commission a management-supported operating and financial model, confirm franchise and ownership conditions, and price a bounded technical work programme before seeking a final investment decision.",
+  "actions": [
+    [
+      "Asset Management",
+      "Validate line utilisation, category margins and the priority operating interventions."
+    ],
+    [
+      "Finance",
+      "Produce reconciled base and downside cash flows, including Algeria and working capital."
+    ],
+    [
+      "CEO and CIO",
+      "Review the preferred option and the scope proposed for detailed evaluation."
+    ]
+  ],
+  "sections": {
+    "objectives": {
+      "text": "The proposed investment objective is to improve the resilience and earnings quality of an existing beverage and food distribution platform. The demo case focuses on profitable volume recovery, a healthier category mix and more efficient use of ORCI's current assets.\n\nThe development mandate should distinguish an equity transaction from funding for operating improvements. Neither a stake size nor a capital raise is established in the pack, so both remain matters for transaction discussions.",
+      "sourceNames": [
+        "1.01_Company_Profile.pdf",
+        "1.08_Development_Plan_and_Strategy.pdf"
+      ]
+    },
+    "technical": {
+      "text": "The Muscat production base and national distribution network support an incremental operating-improvement strategy. The systems note records SAP and sales automation, but does not quantify line-level capacity or utilisation.\n\nTechnical diligence should join production, product and channel data in one assessment: which products earn an acceptable contribution, where capacity is constrained, and which interventions have a demonstrable operating benefit. This is the basis for selecting specific investments rather than a generic factory expansion.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx"
+      ]
+    },
+    "options": {
+      "text": "Three options are considered for the demonstration. A recovery-only case would concentrate on pricing, sales execution and cost discipline. A phased brownfield case would add targeted product-mix and efficiency interventions. A wider expansion case would commit more capital to capacity or geographic growth.\n\nThe phased brownfield case is preferred for detailed evaluation because it combines the existing asset base with evidence of differentiated category demand. Wider expansion should remain an option until capacity, returns and Algeria's funding requirements are established.",
+      "sourceNames": [
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "1.09_Algeria_Atlas_Bottling_Fact_Sheet.pdf"
+      ]
+    },
+    "licenses": {
+      "text": "The permits checklist should be converted into a schedule of current licences, renewal dates and approvals required by the selected interventions. The excise and digital tax-stamp note also makes compliance systems part of the operating scope.\n\nNo completion date is asserted for an approval that has not been verified. The detailed programme should sequence design and procurement around confirmed regulatory dependencies and assign Legal responsibility for the consolidated register.",
+      "sourceNames": [
+        "4.01_Statutory_Regulatory_Requirements_Register.xlsx",
+        "4.04_Licences_and_Permits_Checklist.docx",
+        "4.03_Excise_Tax_and_Digital_Tax_Stamp_Note.docx"
+      ]
+    },
+    "land": {
+      "text": "The preferred option starts from the existing Al Ghubrah manufacturing site and distribution footprint. It does not assume the availability of a new plot or a completed land allotment.\n\nThe technical and legal teams should verify site rights, permitted use, space constraints and access arrangements. If those checks show that a proposed intervention cannot fit within the existing footprint, the option comparison should be reopened before committing to expansion.",
+      "sourceNames": [
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "4.04_Licences_and_Permits_Checklist.docx"
+      ]
+    },
+    "sales": {
+      "text": "The commercial case should concentrate on contribution by category and channel. The recorded growth in juices contrasts with the sharp decline in carbonated drinks, while chilled and frozen products grew from a much smaller base. These movements argue for selective portfolio decisions rather than uniform growth assumptions.\n\nManagement should provide price, promotion, margin and customer-retention data. The detailed study should test whether distribution reach and sales automation can convert the observed demand patterns into profitable, repeatable sales.",
+      "sourceNames": [
+        "1.02_Industry_and_Market_Overview.docx",
+        "1.03_Sales_Volumes_by_Category_2022_2024.xlsx",
+        "1.10_Competitive_Landscape_and_Threats.docx"
+      ]
+    },
+    "execution": {
+      "text": "A phased delivery approach is proposed: diagnose the operating constraints, confirm the intervention business cases, then procure and implement discrete packages. Early work should focus on systems, maintenance and commercial execution before major equipment commitments.\n\nThe appropriate contracting model depends on the package. Specialist services may suit the diagnostic and systems work; equipment or engineering contracts should follow a defined scope and acceptance criteria. No EPC, EPCM or supplier appointment has been established by the supplied pack.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx"
+      ]
+    },
+    "cost": {
+      "text": "The investment plan should separate maintenance, growth, compliance, energy and working-capital requirements. The use-of-funds workbook provides these categories but is not a priced investment estimate. Its OMR 1.5 million Muscat line-upgrade row is explicitly an example and is excluded from the template total.\n\nThe selected case therefore requires supplier quotations, technical quantities and a cost basis before it can claim a pre-feasibility estimate within the required accuracy range. No demonstration amount is presented as an actual company request.",
+      "sourceNames": [
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx",
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "resources": {
+      "text": "Asset Management should coordinate the next-stage programme with dedicated Finance, Legal, commercial and engineering inputs. The immediate deliverables are a reconciled data book, a technical diagnostic, a transaction issues list and an integrated financial model.\n\nThe proposed sequence is information collection, option validation and consolidated investment evaluation. The duration and adviser fees should be agreed after the company confirms access to management, operating records and site inspections.",
+      "sourceNames": [
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "3.08_KYC_Document_Checklist.docx",
+        "1.06_Technology_and_Systems_Note.docx"
+      ]
+    },
+    "funding": {
+      "text": "The shareholder register identifies the principal holdings, while the financial memo describes a net-cash position at the group level. Neither establishes the form or availability of funding for a new investor's transaction.\n\nThe funding assessment should distinguish acquisition consideration from capital injected into the business. Finance should test internal cash, debt and equity alternatives against working-capital needs, covenants and the timing of the chosen interventions.",
+      "sourceNames": [
+        "3.02_Major_Shareholders_Register.xlsx",
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx"
+      ]
+    },
+    "projections": {
+      "text": "The historical sequence provides a starting point for forecasting: group revenue of OMR 96.74 million in 2023 fell to OMR 63.37 million in 2024, followed by a reported recovery to approximately OMR 68.6 million in 2025. Profit recovery was not uniform across the available periods.\n\nThe model should forecast Oman and Algeria separately, with drivers for volume, price, mix, input costs, working capital and capital expenditure. The FY2025 provider differences must be reconciled before the model's opening balances and earnings base are locked.",
+      "sourceNames": [
+        "2.03_Income_Statement_Summary_FY2021_FY2025.csv",
+        "2.04_Interim_Results_Tracker_2024_2026.xlsx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "kpis": {
+      "text": "The pack's approximately 5.8 times FY2025 EV/EBITDA provides a dated market reference for the listed company. It is not a return calculation for the proposed investment.\n\nInvestment IRR and NPV should be calculated only after the entry price, capital programme, financing and exit assumptions are specified. Operating measures should include category contribution, cash conversion and capacity utilisation so that value creation can be tracked alongside the financial return.",
+      "sourceNames": [
+        "2.06_Market_Data_and_Valuation_Snapshot.pdf",
+        "2.03_Income_Statement_Summary_FY2021_FY2025.csv",
+        "2.09_Financial_DD_Information_Request_List.docx"
+      ]
+    },
+    "risks": {
+      "text": "Demand substitution and commodity costs remain the leading commercial risks. Financial risk centres on whether the recovery converts into cash and whether the Algerian operation requires additional funding. Legal diligence must establish the continuity of franchise rights under any proposed transaction.\n\nThe preferred case should be stress-tested for slower recovery, tighter margins and higher working capital. Each material risk should have an owner, a mitigation and an explicit effect on price, funding or execution conditions.",
+      "sourceNames": [
+        "1.10_Competitive_Landscape_and_Threats.docx",
+        "1.07_Raw_Materials_and_Supply_Chain_Note.docx",
+        "2.07_Preliminary_Finance_Review_Memo.docx"
+      ]
+    },
+    "esg": {
+      "text": "The phased brownfield case can link operating improvements with environmental and product objectives. The Muscat solar installation provides an existing energy initiative, while the product portfolio offers a basis for testing lower-sugar and juice-led growth.\n\nThe next study should establish baseline energy and water intensity, packaging metrics and product-mix measures. Public disclosure scores should remain separate from verified performance and from the incremental benefits claimed for an investment.",
+      "sourceNames": [
+        "5.01_ESG_Assessment_Memo.docx",
+        "5.04_Environmental_Initiatives_Fact_Sheet.pdf",
+        "5.06_Product_Health_and_Sugar_Exposure_Note.pdf"
+      ]
+    },
+    "exit": {
+      "text": "Potential exits for an equity case include a negotiated strategic sale, a shareholder transaction or a staged market disposal. These are options for evaluation, not commitments by existing shareholders.\n\nThe pack describes thin trading, which limits reliance on a rapid market exit for a material stake. The final proposal should test buyer appetite, transfer restrictions and franchise implications before placing substantial value on a particular exit route.",
+      "sourceNames": [
+        "2.06_Market_Data_and_Valuation_Snapshot.pdf",
+        "3.02_Major_Shareholders_Register.xlsx",
+        "1.04_Principals_and_Partners_Register.xlsx"
+      ]
+    },
+    "assurance": {
+      "text": "The selected option has a traceable rationale: use the existing platform, prioritise profitable product and channel opportunities, and sequence capital behind verified operating benefits. It also identifies the information required to decide whether the case is investable.\n\nSG2 value assurance should confirm that the detailed study covers the principal downside exposures and that its outputs can support a priced proposal. The next decision is to approve the evaluation scope, not to treat the demonstration case as a completed investment commitment.",
+      "sourceNames": [
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "2.07_Preliminary_Finance_Review_Memo.docx",
+        "2.09_Financial_DD_Information_Request_List.docx"
+      ]
+    },
+    "study-budget": {
+      "text": "The next-stage budget should cover financial, commercial, legal and technical work in distinct packages. Fee proposals should be linked to defined deliverables, company access and the intended investment timetable.\n\nFinance must confirm the funding source and approved envelope before adviser appointments. The supplied use-of-funds template does not establish that approval, so the report records it as a decision condition rather than assuming a budget has been released.",
+      "sourceNames": [
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx",
+        "2.09_Financial_DD_Information_Request_List.docx"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}

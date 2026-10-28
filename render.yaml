@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: ofc-demo
+    runtime: docker
+    plan: 1c-2g
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    numInstances: 1
+    healthCheckPath: /
+    autoDeployTrigger: 'off'
+    disk:
+      name: ofc-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: PORT
+        value: "10000"
+      - key: OFC2_DATA_DIR
+        value: /data
+      - key: OFC2_APPLET_DB
+        value: /data/applets/siraaj.sqlite
+      - key: OFC2_CHROME
+        value: /usr/bin/chromium
+      - key: SIRAAJ_CHROME_PATH
+        value: /usr/bin/chromium

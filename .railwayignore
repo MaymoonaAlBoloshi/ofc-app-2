@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.git/
+.agents/
+.codex/
+.aws/
+.env*
+data/
+test-results/
+tests/

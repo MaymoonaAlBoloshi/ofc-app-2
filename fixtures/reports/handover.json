@@ -1,0 +1,76 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "This handover example translates the ORCI investment case into an Asset Management work programme. It brings together the commercial rationale, financial baseline, technical priorities and outstanding conditions so that the receiving team can manage the investment without reconstructing the diligence history.\n\nThe supplied data room establishes the company context. The transfer checklist and ownership arrangements below are a proposed demo operating model, not evidence that a transaction has closed.",
+  "recommendation": "Transfer responsibility only after the receiving owner accepts the documents, conditions and execution baseline. Keep any unresolved item assigned to a named workstream and a defined release point.",
+  "actions": [
+    [
+      "Investment",
+      "Deliver the approved decision record, supporting models and agreement register."
+    ],
+    [
+      "Asset Management",
+      "Accept ownership and establish the implementation baseline."
+    ],
+    [
+      "Legal and Finance",
+      "Confirm closing conditions and funding controls."
+    ]
+  ],
+  "sections": {
+    "documents": {
+      "text": "The transfer pack should retain the PIN, pre-feasibility assessment, final proposal and the decision history as separate records. The ORCI index provides the source-document structure across commercial, financial, KYC, regulatory and ESG workstreams.\n\nAsset Management should receive the final versions of models, contracts and diligence reports with clear ownership and document dates. Public-source summaries should remain distinguishable from company-issued evidence and signed transaction documents.",
+      "sourceNames": [
+        "0.01_Data_Room_Index.xlsx",
+        "2.09_Financial_DD_Information_Request_List.docx",
+        "3.08_KYC_Document_Checklist.docx"
+      ]
+    },
+    "conditions": {
+      "text": "The principal condition categories are franchise continuity, corporate and KYC clearance, permits, funding and any technical prerequisites. The condition register should identify the evidence needed to close each item and the point beyond which work cannot proceed without it.\n\nThis proposed register supports the handover discussion. It does not assert that any consent or closing condition has already been satisfied.",
+      "sourceNames": [
+        "1.04_Principals_and_Partners_Register.xlsx",
+        "4.04_Licences_and_Permits_Checklist.docx",
+        "3.08_KYC_Document_Checklist.docx"
+      ]
+    },
+    "owner": {
+      "text": "Asset Management is the proposed accountable owner for post-decision performance, supported by Finance, Legal and the operating team. Investment should explain the original value thesis and the limits of the mandate during the handover.\n\nAcceptance should record the accountable people, reporting cadence, escalation route and the treatment of outstanding diligence items. Board representation and company management responsibilities should be documented separately.",
+      "sourceNames": [
+        "3.03_Board_and_Key_Management_Register.xlsx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf"
+      ]
+    },
+    "execution": {
+      "text": "The execution baseline should preserve the phased brownfield approach: verify the operating constraints, implement priority commercial and efficiency measures, then release larger packages against approved business cases.\n\nEach package should have a cost owner, a schedule, an acceptance test and a benefit measure. The source funding template supplies useful headings, but the baseline must use the amounts actually approved in the investment decision.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.08_Development_Plan_and_Strategy.pdf",
+        "2.08_Financial_Requirements_Use_of_Funds_Template.xlsx"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}

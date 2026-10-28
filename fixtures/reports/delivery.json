@@ -1,0 +1,76 @@
+{
+  "subject": "Oman Refreshment Company SAOG (ORCI)",
+  "asOf": "27 October 2026",
+  "basis": "Prepared demonstration based on the supplied ORCI data room. Company background and historical figures come from that pack. Proposed work programmes and recommendations are illustrative; they are not company commitments or recorded approvals.",
+  "summary": "This execution review is a prepared example for the ORCI brownfield case. It organises delivery around production continuity, commercial recovery and the evidence required to accept completed interventions. The existing Muscat plant, distribution network and systems investments provide the operating context.\n\nThe report does not invent completed milestones or realised benefits. It sets out the delivery checks and management decisions that a live project review would use.",
+  "recommendation": "Manage implementation through defined work packages and evidence-based acceptance. Escalate changes to cost, timing or the investment thesis before committing beyond the approved scope.",
+  "actions": [
+    [
+      "PMO",
+      "Maintain the milestone and change-control baseline."
+    ],
+    [
+      "Operations",
+      "Validate production readiness and benefits measurements."
+    ],
+    [
+      "Asset Management",
+      "Review execution risk and approve escalation to investment governance."
+    ]
+  ],
+  "sections": {
+    "milestones": {
+      "text": "The proposed delivery sequence comprises technical verification, commercial and systems improvements, equipment interventions where justified, and operational acceptance. Milestones should be tied to tangible outputs rather than broad percentages of completion.\n\nFor each work package, PMO should report the baseline date, forecast date, spend and dependency status. The supplied pack contains no live project schedule, so this example does not assign achieved dates.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.08_Development_Plan_and_Strategy.pdf"
+      ]
+    },
+    "leadership": {
+      "text": "Delivery governance should combine an accountable executive sponsor, workstream leads and an escalation route through Asset Management. The workforce and management records help identify the operating interfaces that need to be covered.\n\nThe implementation team should confirm delegations, procurement controls, safety responsibilities and change approval limits before execution. These arrangements should remain distinct from the listed company's existing board structure.",
+      "sourceNames": [
+        "3.03_Board_and_Key_Management_Register.xlsx",
+        "4.02_Corporate_Governance_Compliance_Summary.pdf",
+        "4.06_Labour_and_Omanisation_Note.docx"
+      ]
+    },
+    "integration": {
+      "text": "Brownfield integration should focus on how interventions affect the existing production, distribution and reporting systems. SAP and sales automation are important interfaces for product, inventory and customer data.\n\nOman and Algeria should retain distinguishable operating and financial views so that local improvement is not obscured by consolidation. Any proposed integration benefit should have a clear baseline, accountable owner and measurement period.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "1.05_Operations_and_Facilities_Footprint.pdf",
+        "1.09_Algeria_Atlas_Bottling_Fact_Sheet.pdf"
+      ]
+    },
+    "acceptance": {
+      "text": "Operational acceptance should confirm equipment performance, food-safety requirements, staff readiness, maintenance arrangements and the integrity of reporting data. Energy or productivity benefits should be checked against agreed baseline measurements.\n\nA package should move into routine operations only after its acceptance evidence and remaining defects are recorded. The public certification references in the pack support diligence planning but are not acceptance certificates for new works.",
+      "sourceNames": [
+        "1.06_Technology_and_Systems_Note.docx",
+        "5.03_Quality_Food_Safety_Certifications.csv",
+        "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "label": "FY2024 group revenue",
+      "value": "OMR 63.37m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2024 group net loss",
+      "value": "OMR 2.78m",
+      "sourceName": "2.03_Income_Statement_Summary_FY2021_FY2025.csv"
+    },
+    {
+      "label": "FY2025 revenue references",
+      "value": "OMR 68.57m to 68.63m",
+      "sourceName": "2.07_Preliminary_Finance_Review_Memo.docx"
+    },
+    {
+      "label": "Muscat installed solar",
+      "value": "2,460 kWp",
+      "sourceName": "5.04_Environmental_Initiatives_Fact_Sheet.pdf"
+    }
+  ]
+}
